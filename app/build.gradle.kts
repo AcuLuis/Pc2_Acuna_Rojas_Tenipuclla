@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.aprender.pc2_acuna_rojas_tenipuclla"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.aprender.pc2_acuna_rojas_tenipuclla"

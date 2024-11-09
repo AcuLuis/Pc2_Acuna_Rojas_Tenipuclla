@@ -1,12 +1,10 @@
 <resources>
-    <string name="app_name">aprendyApp</string>
-    <string name="tituloSplash">Aprendy</string>
-    <string name="valSplashTitulo">Aprendy</string>
-    <string name="valiconhat">graduation_hat</string>
-    <string name="valAcceso">Acceso</string>
-    <string name="valEmail">Email</string>
+    <string name="valTitulo">INICIO SESION</string>
+    <string name="valCorreo">correo</string>
+    <string name="valLogin">Acceso</string>
     <string name="valPass">Contraseña</string>
-    <st
+    <string name="valregistro">REGISTRATE</string>
+    <string name="VAVAregistro">registro</string>
 </resources>
 
 
