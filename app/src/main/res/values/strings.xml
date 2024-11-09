@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Pc2_Acuna_Rojas_Tenipuclla</string>
+    <string name="app_name">aprendyApp</string>
+    <string name="tituloSplash">Aprendy</string>
+    <string name="valSplashTitulo">Aprendy</string>
+    <string name="valiconhat">graduation_hat</string>
+    <string name="valAcceso">Acceso</string>
+    <string name="valEmail">Email</string>
+    <string name="valPass">Contraseña</string>
+    <st
 </resources>
+
+
